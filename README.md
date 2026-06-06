@@ -13,7 +13,7 @@ https://github.com/ranjansah809/AI-Powered-Fake-News-Detection
 - TF-IDF Vectorization
 - Multiple ML Models
 - Hindi Language Support
-- 
+  
 ## Dataset
 
 The dataset contains news articles labeled as Fake or Real.
@@ -25,7 +25,13 @@ Text preprocessing and TF-IDF vectorization are applied before training machine 
 - Scikit-Learn
 - Matplotlib
 - Seaborn
+  
+## Results
 
+- Fake News Classification Model
+- TF-IDF Vectorization
+- Machine Learning Based Prediction
+  
 ## Author
 Ranjan Sah
 B.Tech AI & Data Science
