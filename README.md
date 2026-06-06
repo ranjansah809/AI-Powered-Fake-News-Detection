@@ -22,3 +22,15 @@ This project uses Machine Learning and NLP techniques to classify news articles 
 Ranjan Sah
 B.Tech AI & Data Science
 Galgotias University
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run Project
+
+```bash
+jupyter notebook FakeNewsDetection.ipynb
+```
